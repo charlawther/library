@@ -1,0 +1,14 @@
+/Users/charlawtter/libraryy/libraryy/bin/Debug/net8.0/libraryy
+/Users/charlawtter/libraryy/libraryy/bin/Debug/net8.0/libraryy.deps.json
+/Users/charlawtter/libraryy/libraryy/bin/Debug/net8.0/libraryy.runtimeconfig.json
+/Users/charlawtter/libraryy/libraryy/bin/Debug/net8.0/libraryy.dll
+/Users/charlawtter/libraryy/libraryy/bin/Debug/net8.0/libraryy.pdb
+/Users/charlawtter/libraryy/libraryy/obj/Debug/net8.0/libraryy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlawtter/libraryy/libraryy/obj/Debug/net8.0/libraryy.AssemblyInfoInputs.cache
+/Users/charlawtter/libraryy/libraryy/obj/Debug/net8.0/libraryy.AssemblyInfo.cs
+/Users/charlawtter/libraryy/libraryy/obj/Debug/net8.0/libraryy.csproj.CoreCompileInputs.cache
+/Users/charlawtter/libraryy/libraryy/obj/Debug/net8.0/libraryy.dll
+/Users/charlawtter/libraryy/libraryy/obj/Debug/net8.0/refint/libraryy.dll
+/Users/charlawtter/libraryy/libraryy/obj/Debug/net8.0/libraryy.pdb
+/Users/charlawtter/libraryy/libraryy/obj/Debug/net8.0/libraryy.genruntimeconfig.cache
+/Users/charlawtter/libraryy/libraryy/obj/Debug/net8.0/ref/libraryy.dll
